@@ -27,4 +27,4 @@ In this page must thing that very important and much more visible is simillar pr
 https://github.com/rahimtech/torobsmart
 
 # Output
-rahimtech.github.io
+https://rahimtech.github.io
