@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcdbc31c.css",
+    "main.js": "/static/js/main.82d990c6.js",
+    "static/js/787.4b044f86.chunk.js": "/static/js/787.4b044f86.chunk.js",
+    "static/media/Vazir.ttf": "/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/torob_logo.svg": "/static/media/torob_logo.7a3fc7400bf4aa5d17a65dd7a3850b00.svg",
+    "index.html": "/index.html",
+    "main.fcdbc31c.css.map": "/static/css/main.fcdbc31c.css.map",
+    "main.82d990c6.js.map": "/static/js/main.82d990c6.js.map",
+    "787.4b044f86.chunk.js.map": "/static/js/787.4b044f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdbc31c.css",
+    "static/js/main.82d990c6.js"
+  ]
+}
