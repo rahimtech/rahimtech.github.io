@@ -9,10 +9,15 @@ This project is similar to Trello website with a unique feature called easy func
 
 # Languages
 What programming languages & library are used in this project?
+* Frontend :
 + HTML/CSS/JavaScript
 + Reactjs
 + TailwindCss
 + React-Beautiful-DnD
+* Backend :
++ Nodejs
++ express
++ mySQL
 
 
 # Link of React App Codes
